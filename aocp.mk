@@ -3,13 +3,12 @@ $(call inherit-product, device/samsung/quincyatt/full_quincyatt.mk)
 # Inherit some common aocp stuff.
 $(call inherit-product, vendor/aocp/configs/gsm.mk)
 
+# Enhanced NFC
+$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+
 # Inherit some common aocp stuff.
 $(call inherit-product, vendor/aocp/configs/common_phone.mk)
 
-# Camera
-PRODUCT_PACKAGES += \
-    Camera
-	
 # S-Pen App
 PRODUCT_COPY_FILES += \
         vendor/aocp/prebuilt/common/app/Memo-0-1.5.apk:system/app/Memo-0-1.5.apk
