@@ -3,9 +3,6 @@ $(call inherit-product, device/samsung/quincyatt/full_quincyatt.mk)
 # Inherit some common aocp stuff.
 $(call inherit-product, vendor/aocp/configs/gsm.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 # Inherit some common aocp stuff.
 $(call inherit-product, vendor/aocp/configs/common_phone.mk)
 
