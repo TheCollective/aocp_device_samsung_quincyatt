@@ -2,26 +2,26 @@
   {
     "repository": "Cyanogenmod/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision_name": "cm-10.1"
+    "branch": "cm-10.1"
   },
   {
     "repository": "Cyanogenmod/android_device_samsung_msm8660-common",
     "target_path": "device/samsung/msm8660-common",
-    "revision_name": "cm-10.1"
+    "branch": "cm-10.1"
   },
   {
     "repository": "Cyanogenmod/android_device_samsung_quincy-common",
     "target_path": "device/samsung/quincy-common",
-    "revision_name": "cm-10.1"
+    "branch": "cm-10.1"
   },
   {
     "repository": "Cyanogenmod/android_kernel_samsung_msm8660-common",
     "target_path": "kernel/samsung/msm8660-common",
-    "revision_name": "cm-10.1"
+    "branch": "cm-10.1"
   },
   {
     "repository": "TheCollective/proprietary_vendor_quincyatt",
     "target_path": "vendor/samsung/quincyatt",
-    "revision_name": "jellybean2"
+    "branch": "jellybean2"
   }
 ]
