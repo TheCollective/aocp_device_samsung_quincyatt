@@ -63,7 +63,7 @@ ro.telephony.call_ring.multiple=0
 
 ro.sf.lcd_density=320
 
-# Feilds for RIL
+# Fields for RIL
 telephony.lteOnGsmDevice=1
 
 # System property for SIM
